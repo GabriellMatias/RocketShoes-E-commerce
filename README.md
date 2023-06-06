@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img width="150px" src="https://user-images.githubusercontent.com/80908772/194680070-87fbc668-aee7-40d4-98d9-64ba84bf08c5.png"/>
+  <img src="https://user-images.githubusercontent.com/80908772/200186782-e68d1a7a-f5b9-4ed8-8409-00dc994e81da.png"/>
 </h1>
 <br/>
 
@@ -20,7 +20,6 @@ Shopping cart is one of the most common challenges in react. Thus, concepts of i
 ## :camera: ScreenShots
 <h1 aling="center">
   
-  <img style="margin-top:100px;" src="https://user-images.githubusercontent.com/80908772/200186782-e68d1a7a-f5b9-4ed8-8409-00dc994e81da.png"/>
   <hr/>
   <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/200186784-fd6e75ef-015a-4495-ab9e-44244e0ee493.png"/>
   <hr/>
